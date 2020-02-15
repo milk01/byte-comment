@@ -1,7 +1,7 @@
 {
   "name": "byte-comment",
   "version": "1.0.0",
-  "description": "",
+  "description": "a comment bot",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
