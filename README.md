@@ -1,8 +1,8 @@
 # byte-comment
-spams byte comments
+byte comment script
+spam byte comments
 
 
-1. set the `authKey` and `message` variables
-(message is the comment it sends)
+1. set the `authKey` and `comment` variables
 2. run `npm install`
 3. run `npm start`
